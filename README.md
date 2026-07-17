@@ -1,4 +1,8 @@
-<h1 align="center"> Soy Joshua</h1>
+[
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MRGL;Engineering+Systems+Student)
+
+](https://git.io/typing-svg)
 <h3 align="center">Un apasionado de la ciberseguridad de Costa Rica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuamrgl&label=Profile%20views&color=0e75b6&style=flat" alt="joshuamrgl" /> </p>
