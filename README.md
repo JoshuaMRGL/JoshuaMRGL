@@ -1,8 +1,11 @@
 
 
 
+[
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=MRGL;Engineering+Systems+Student)
 
+](https://git.io/typing-svg)
 
 
 <h3 align="center">Un apasionado de la ciberseguridad de Costa Rica</h3>
