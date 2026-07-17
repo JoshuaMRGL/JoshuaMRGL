@@ -1,5 +1,8 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MRGL;Engineering+Systems+Student)
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=MRGL;Engineering+Systems+Student)
+
 
 
 <h3 align="center">Un apasionado de la ciberseguridad de Costa Rica</h3>
