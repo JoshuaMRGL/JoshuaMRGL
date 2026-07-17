@@ -1,10 +1,10 @@
-# Soy MRGL
+
   
 * Estudiante de ingeniería en computación 
 
 * Conocimienos básicos de ciberseguridad
 
-* Techstack:    .py
+* Techstack:    ".py"
 
 ### Estadisticas
 
